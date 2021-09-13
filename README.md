@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://ezgif.com/video-to-gif/ezgif-3-2a7fac33a9f6.mov" width=250><br>
+<img src="https://imgur.com/ket6zND.gif" width=250><br>
 
 ### Notes
 The most challenging aspect of this project is making sure that the storyboard class name is the same as the viewcontroller's class name. I also had trouble with outlet connections, but they have been solved.
