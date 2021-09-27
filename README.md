@@ -38,7 +38,7 @@ The front end and calulations for the front end were challenging because one cha
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://i.imgur.com/2jfDlIH.gif" width=250><br>
+<img src="https://media.giphy.com/media/c62QM4aQPUeTqZXtpr/giphy.gif?cid=790b76115156122f964f7b8ff8536c6880f385bf2c05eee1&rid=giphy.gif&ct=g" width=250><br>
 
 ### Notes
 The most challenging aspect of this project is making sure that the storyboard class name is the same as the viewcontroller's class name. I also had trouble with outlet connections, but they have been solved.
